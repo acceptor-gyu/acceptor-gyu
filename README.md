@@ -20,10 +20,6 @@
 
 
 # 📬: Contacts
-<a href="https://velog.io/@tjdrb0402/" target="_blank">
-  <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://velog.io/@tjdrb0402/" />
-</a>
-
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://velog.io/@tjdrb0402/)](https://velog.io/@tjdrb0402/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gseonggyu968@gmail.com)](mailto:gseonggyu968@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tjdrb0204@naver.com)](mailto:tjdrb0204@naver.com)
