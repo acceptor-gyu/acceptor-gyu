@@ -1,4 +1,6 @@
-### Hi there 👋
+### acceptor-gyu 😴
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facceptor-gyu&count_bg=%2392ED4C&title_bg=%2333AA42&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **acceptor-gyu/acceptor-gyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
