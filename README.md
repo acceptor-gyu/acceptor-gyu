@@ -14,7 +14,7 @@
 ## leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/acceptor-gyu)
 ## codeforces
-[![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/acceptor-gyu)
+[![CodeForces Profile](https://cf.leed.at?id=acceptor-gyu)](https://codeforces.com/profile/acceptor-gyu)
 
 # Skills 👾
 ### Platforms & Language
