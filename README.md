@@ -1,11 +1,19 @@
-# acceptor-gyu 😴
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facceptor-gyu&count_bg=%2392ED4C&title_bg=%2333AA42&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align='center'>
+  
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=81C147&height=300&section=header&text=Luke-Git&fontSize=70)
 
-# Stats
+## Stats
+
 ![acceptor_gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=acceptor-gyu&theme=merko&show_icons=true)
+  
+  
+</div>
 
 # Introduce
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facceptor-gyu&count_bg=%2392ED4C&title_bg=%2333AA42&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- acceptor-gyu 😴
 - Growth is the most powerful drug
 
 # Algorithm
@@ -13,6 +21,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acceptor_gyu)](https://solved.ac/acceptor_gyu/)
 ## leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/acceptor-gyu)
+
+<div align='center'>
 
 # Skills 👾
 ### Platforms & Language
@@ -35,7 +45,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gseonggyu968@gmail.com)](mailto:gseonggyu968@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tjdrb0204@naver.com)](mailto:tjdrb0204@naver.com)
 
-
+</div>
 
 <!--
 **acceptor-gyu/acceptor-gyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
