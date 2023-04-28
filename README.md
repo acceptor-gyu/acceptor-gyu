@@ -2,12 +2,14 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facceptor-gyu&count_bg=%2392ED4C&title_bg=%2333AA42&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+# Stats
 ![acceptor_gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=acceptor-gyu&theme=merko&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acceptor_gyu)](https://solved.ac/acceptor_gyu/)
 
 # Introduce
 - Growth is the most powerful drug
 
+# Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acceptor_gyu)](https://solved.ac/acceptor_gyu/)
 
 # skills 👾
 ### Platforms & Language
