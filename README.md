@@ -13,8 +13,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acceptor_gyu)](https://solved.ac/acceptor_gyu/)
 ## leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/acceptor-gyu)
-## codeforces
-[![CodeForces Profile](https://cf.leed.at?id=acceptor-gyu)](https://codeforces.com/profile/acceptor-gyu)
 
 # Skills 👾
 ### Platforms & Language
