@@ -13,12 +13,16 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acceptor_gyu)](https://solved.ac/acceptor_gyu/)
 ## leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/acceptor-gyu)
+## codeforces
+[![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/acceptor-gyu)
 
-# skills 👾
+# Skills 👾
 ### Platforms & Language
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
+### Infra
 ![Amazon Aws](https://img.shields.io/badge/Amazon%20Aws-232F3E.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
