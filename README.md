@@ -5,6 +5,10 @@
 ![acceptor_gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=acceptor-gyu&theme=merko&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acceptor_gyu)](https://solved.ac/acceptor_gyu/)
 
+# Introduce
+- Growth is the most powerful drug
+
+
 # skills 👾
 ### Platforms & Language
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
