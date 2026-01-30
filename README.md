@@ -4,11 +4,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=81C147&height=300&section=header&text=Luke-Git&fontSize=70)
 
-## Stats
 
-![acceptor_gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=acceptor-gyu&theme=merko&show_icons=true)
-  
-  
 </div>
 
 # Introduce ❄️
