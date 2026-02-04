@@ -1,12 +1,4 @@
 
-<div align='center'>
-  
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=81C147&height=300&section=header&text=Luke-Git&fontSize=70)
-
-
-</div>
-
 # Introduce ❄️
 - acceptor-gyu 😴
 - Growth is the most powerful drug
