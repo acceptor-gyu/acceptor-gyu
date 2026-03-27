@@ -2,14 +2,7 @@
 # Introduce ❄️
 - acceptor-gyu 😴
 - Growth is the most powerful drug
-
-# Algorithm 🧠
-## acmicpc.net
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acceptor_gyu)](https://solved.ac/acceptor_gyu/)
-## leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/acceptor-gyu)
-
-<div align='center'>
+- [DEVLOG](https://github.com/acceptor-gyu/TIL)
 
 # Skills 👾
 ### Platforms & Language 🌱
